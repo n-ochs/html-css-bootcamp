@@ -1,0 +1,11 @@
+body {
+    margin: center;
+}
+
+.header {
+    display: inline;
+}
+
+.menu-bar {
+    float: right;
+}
