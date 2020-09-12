@@ -2,10 +2,18 @@ body {
     margin: center;
 }
 
-.header {
+.DCtitle {
     display: inline;
 }
 
 .menu-bar {
     float: right;
+}
+
+.blog-title {
+    text-align: center;
+}
+
+.social-link {
+    background-color: blue;
 }
