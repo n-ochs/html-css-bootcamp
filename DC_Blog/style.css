@@ -1,5 +1,5 @@
-body {
-    margin: center;
+html {
+    margin: auto;
 }
 
 .DCtitle {
@@ -8,12 +8,54 @@ body {
 
 .menu-bar {
     float: right;
+    color: lightslategrey;
+    word-spacing: 15px;
+}
+
+.first-item {
+    display: inline;
+    word-spacing: normal;
 }
 
 .blog-title {
     text-align: center;
 }
 
-.social-link {
-    background-color: blue;
+.date {
+    color: lightslategrey;
+}
+
+.link {
+    background-color: rgb(29,161,242);
+    color: white;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    border: none;
+    border-radius: 1px;
+    cursor: pointer;
+}
+
+.main-body {
+    padding-left: 410px;
+    padding-right: 410px;
+}
+
+.header {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.next-options {
+    color: lightslategrey;
+    word-spacing: 15px;
+}
+
+.copyright {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 75%;
+    color: lightslategrey;
 }
