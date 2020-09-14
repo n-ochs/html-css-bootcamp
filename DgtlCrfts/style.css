@@ -1,0 +1,79 @@
+html, body {
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-half {
+    background-image: url(img/atl.png);
+    margin: auto 0;
+    background-size: cover;
+    height: 50%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h4 {
+    display: inline;
+    font-weight: lighter;
+}
+
+.nav-panel {
+    color: slategray;
+    word-spacing: 300%;
+    float: right;
+    margin-top: 1%;
+    margin-right: 20%;
+    font-size: 75%;
+}
+
+.heading {
+    text-align: center;
+    padding: 15% 15% 0% 15%;
+}
+
+.title {
+    font-weight: lighter;
+    color: white;
+}
+
+.description {
+    color: slategray;
+}
+
+.arrow {
+    text-align: center;
+    margin-top: 12%
+}
+
+.bottom-title {
+    text-align: center;
+    margin: 5%;
+}
+
+.logos-and-descriptions {
+    text-align: center;
+}
+
+#at-symbol {
+    margin: 5%;
+}
+
+#hashtag-symbol {
+    margin: 5%;
+}
+
+#dollar-symbol{
+    margin: 5%;
+}
+
+.logo-titles {
+    text-align: center;
+}
+
+h3 {
+    display: inline;
+}
+
+#users {
+    margin-right: 37%;
+}
