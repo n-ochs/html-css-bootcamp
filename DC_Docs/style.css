@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidebar {
+    background-color: rgb(73, 73, 73);
+    color: rgb(203, 203, 203);
+    height: 100%;
+    width: 15%;
+    float: left;
+    margin: auto 0;
+    padding-left: 1%;
+    box-shadow: 3px 3px 1px;
+}
+
+#sidebar-title {
+    color: white;
+}
+
+#searchbar {
+    background-color: rgb(73, 73, 73);
+}
+
+.sidebar-options {
+    margin-top: 25%;
+}
+
+.copyright {
+    margin-top: 400px;
+    font-size: 75%;
+    text-align: center;
+}
+
+.webpage {
+    margin-left: 19%;
+    margin-right: 5%;
+}
+
+#welcome {
+    font-weight: normal;
+    font-size: 85%;
+}
+
+#company-name {
+    font-weight: normal;
+    display: inline;
+}
+
+.content {
+    margin-top: 6%;
+}
+
+h3 {
+    font-size: 85%;
+}
+
+.quote-display {
+    background-color: rgb(207, 204, 198);
+    box-shadow: -5px 0px 0px 0px grey;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 125%;
+}
+
+#opening-quotation {
+    font-weight: bold;
+    padding: 2% 0% 0% 2%
+}
+
+#closing-quotation {
+    font-weight: bold;
+    text-align: right;
+    padding-right: 5%;
+}
+
+#quote {
+    text-indent: 5%;
+}
+
+#name-from-quote {
+    text-align: right;
+    padding-right: 5%;
+}
