@@ -26,9 +26,10 @@ body {
 }
 
 .copyright {
-    margin-top: 400px;
     font-size: 75%;
     text-align: center;
+    position: fixed;
+    bottom: 0;
 }
 
 .webpage {
